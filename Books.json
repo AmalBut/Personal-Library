@@ -1,0 +1,50 @@
+[
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": 1,
+    "Year": "1925-04",
+    "IsRent": false,
+    "Summary": "A novel about the American dream and the tragic story of Jay Gatsby, a mysterious millionaire."
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": 2,
+    "Year": "1960-07",
+    "IsRent": false,
+    "Summary": "A novel that deals with serious issues like racial injustice and moral growth in the Deep South."
+  },
+  {
+    "Title": "2222",
+    "Author": "ffff",
+    "Genre": 4,
+    "Year": "2002-10",
+    "IsRent": false,
+    "Summary": ""
+  },
+  {
+    "Title": "5155",
+    "Author": "ffff",
+    "Genre": 4,
+    "Year": "1444-10",
+    "IsRent": false,
+    "Summary": ""
+  },
+  {
+    "Title": "5555",
+    "Author": "1111",
+    "Genre": 0,
+    "Year": "20-1",
+    "IsRent": true,
+    "Summary": "jj"
+  },
+  {
+    "Title": "111",
+    "Author": "333",
+    "Genre": 3,
+    "Year": "2014-8",
+    "IsRent": true,
+    "Summary": ""
+  }
+]
